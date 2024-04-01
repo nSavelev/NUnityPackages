@@ -1,0 +1,22 @@
+{
+  "name": "com.nsavelev.google-table-loader",
+  "version": "1.0.0",
+  "displayName": "NDriveTableLoader",
+  "description": "Loads and converts data from google drive",
+  "unity": "2022.3",
+  "unityRelease": "10f1",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "Google",
+    "Table",
+    "Drive",
+    "Balance"
+  ],
+  "author": {
+    "name": "Nickolai Savelev",
+    "email": "nickolai.savelev@gmail.com",
+    "url": "https://github.com/nSavelev"
+  }
+}
