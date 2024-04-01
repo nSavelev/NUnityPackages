@@ -7,7 +7,7 @@
 - You require key to load from google drive via GoogleSheetsAPI.
 - Create by folowing this instructions: https://developers.google.com/workspace/guides/get-started
 - Create table and add your service account e-mail as reader or editor.
-- import package to Unity from git URL ()
+- import package to Unity from git URL (https://github.com/nSavelev/NUnityPackages.git?path=Assets/NDriveTableLoader)
 
 ## GoogleTable formatting rules:
 - Table locale should be EN-US
